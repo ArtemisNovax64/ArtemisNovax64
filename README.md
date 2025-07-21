@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Nova 👋</h1>
 
 <p align="center">
@@ -74,9 +72,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArtemisNovax64&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemisNovax64&theme=tokyonight" height="165" />
-</p>
-
+  
 ---
 
 ### 🔧 Languages & Tools
