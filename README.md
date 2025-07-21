@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi, I'm Nova 👋</h1>
 
 <p align="center">
@@ -47,7 +48,7 @@
 - 📜 Raw, unpolished, honest dev logs (no trace of GPT, trust me bro)
 - 💥 Side projects that go boom (for real)
 - 🎨 Sometimes design, always chaos
-- 🤝 A future home for open-source collabs, maybe?
+- 🤝 VS Code knows more about me than my therapist
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArtemisNovax64&label=Profile+Views&color=blueviolet&style=flat" alt="Nova's Profile Views" />
@@ -62,14 +63,6 @@
 </p>
 
 ---
-
-### 🐾 My POV
-<p align="center">
-  <img src="https://media.tenor.com/BOkL6av2mjAAAAAC/keyboard-cat.gif" width="400" alt="Keyboard Cat">
-</p>
-
----
-
 ### 📂 Repositories You'll See Here
 - 💡 Practice Projects
 - 🎯 Concept Demos
@@ -82,9 +75,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArtemisNovax64&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemisNovax64&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisNovax64&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
